@@ -1,0 +1,51 @@
+body {
+    background: rgb(68, 68, 88) 
+    }
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.start {
+   color:  white;
+   text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+li {
+    text-align:center;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: white;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+}
+
+h6 {
+    text-align: center;
+    color: white;
+}
