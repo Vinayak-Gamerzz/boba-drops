@@ -49,3 +49,39 @@ h6 {
     text-align: center;
     color: white;
 }
+
+.hack-club-logo {
+    width: 200px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.elyra-club-logo {
+    width: 200px;
+    margin-top: 10px;
+    top: 10px;
+    position: absolute;
+    left: 1300px;
+}
+
+.me{
+    left: 200px;
+    margin-left: 500px;
+    width: 500px;
+}
+
+.points {
+    color:aqua
+}
+
+.tareef {
+    color:rgb(195, 92, 226)
+}
+
+.current {
+    color:rgb(163, 97, 224)
+}
+
+.thank-you {
+    color:rgb(255, 0, 0)
+}
